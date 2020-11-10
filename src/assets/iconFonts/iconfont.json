@@ -1,0 +1,191 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "203315",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "1263267",
+      "name": "考勤",
+      "font_class": "kaoqin",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "1847352",
+      "name": "学员",
+      "font_class": "xueyuan",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "3105368",
+      "name": "用户",
+      "font_class": "icon-test",
+      "unicode": "e501",
+      "unicode_decimal": 58625
+    },
+    {
+      "icon_id": "3927072",
+      "name": "电脑角标",
+      "font_class": "diannaojiaobiao",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "3927073",
+      "name": "二维码角标",
+      "font_class": "erweimajiaobiao",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "4447107",
+      "name": "数据",
+      "font_class": "shuju",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "4693894",
+      "name": "数据",
+      "font_class": "shuju1",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "4946434",
+      "name": "Excel",
+      "font_class": "Excel",
+      "unicode": "e502",
+      "unicode_decimal": 58626
+    },
+    {
+      "icon_id": "5479619",
+      "name": "二维码角标",
+      "font_class": "erweimajiaobiao1",
+      "unicode": "e530",
+      "unicode_decimal": 58672
+    },
+    {
+      "icon_id": "7347654",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "7969185",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e6bb",
+      "unicode_decimal": 59067
+    },
+    {
+      "icon_id": "8439381",
+      "name": "学员",
+      "font_class": "xueyuan1",
+      "unicode": "e6d9",
+      "unicode_decimal": 59097
+    },
+    {
+      "icon_id": "8447078",
+      "name": "成功",
+      "font_class": "chenggong",
+      "unicode": "e6ca",
+      "unicode_decimal": 59082
+    },
+    {
+      "icon_id": "9028829",
+      "name": "首页",
+      "font_class": "shouye1",
+      "unicode": "e675",
+      "unicode_decimal": 58997
+    },
+    {
+      "icon_id": "9301930",
+      "name": "扫码成功",
+      "font_class": "saomachenggong",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "11227995",
+      "name": "excel",
+      "font_class": "excel",
+      "unicode": "e510",
+      "unicode_decimal": 58640
+    },
+    {
+      "icon_id": "11413715",
+      "name": "数据",
+      "font_class": "shuju2",
+      "unicode": "e503",
+      "unicode_decimal": 58627
+    },
+    {
+      "icon_id": "11743693",
+      "name": "考勤",
+      "font_class": "kaoqin1",
+      "unicode": "e6c0",
+      "unicode_decimal": 59072
+    },
+    {
+      "icon_id": "11908555",
+      "name": "考勤",
+      "font_class": "kaoqin2",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "11989239",
+      "name": "考勤",
+      "font_class": "kaoqin3",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "12072275",
+      "name": "excel",
+      "font_class": "excel1",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "13024135",
+      "name": "收 起",
+      "font_class": "zhankai",
+      "unicode": "e504",
+      "unicode_decimal": 58628
+    },
+    {
+      "icon_id": "13653539",
+      "name": "收 起",
+      "font_class": "shouqi",
+      "unicode": "e985",
+      "unicode_decimal": 59781
+    },
+    {
+      "icon_id": "13820661",
+      "name": "考勤- 加班管理",
+      "font_class": "kaoqin-jiabanguanli",
+      "unicode": "e6ac",
+      "unicode_decimal": 59052
+    },
+    {
+      "icon_id": "14311392",
+      "name": "我的",
+      "font_class": "wode1",
+      "unicode": "e7a9",
+      "unicode_decimal": 59305
+    }
+  ]
+}
